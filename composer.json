@@ -11,7 +11,7 @@
     }
   ],
   "require": {
-    "laravel/framework": "^7.0",
+    "illuminate/support": "^7.0",
     "php": "^7.2",
     "guzzlehttp/guzzle": "^6.0",
     "ext-json": "*"
